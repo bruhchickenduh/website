@@ -5,9 +5,9 @@
 	    <title>About Me</title><center>
 	  </head>
 	  <body bgcolor="#AEC6CF">
-    <a href="index.html">Home</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="aboutme.html">About Me</a>
+    <a href="index-1.html">Home</a>
+    <a href="portfolio-1.html">Portfolio</a>
+    <a href="aboutme-1.html">About Me</a>
     <h1>This is all about me!</h1>
     <br>
     <h1>   I like playing golf with friends!</h1>
