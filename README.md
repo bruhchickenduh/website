@@ -1,4 +1,4 @@
 # website
-./index-1.html
-./portfolio-1.html
-./aboutme-1.html
+<<insertHTML:[index-1.html]
+<<insertHTML:[portfolio-1.html]
+<<insertHTML:[aboutme-1.html]
